@@ -1,4 +1,4 @@
-# Ejercicios Básicos en Javascript
+# Ejercicios Básicos en Javascript - Reto 5
 
 Ejercicios de aprendizaje en el lenguaje de programación Javascript, orientado por la Empresa Bitakora.
 
