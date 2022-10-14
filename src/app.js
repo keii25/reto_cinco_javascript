@@ -1,7 +1,7 @@
 var scanf = require('scanf');
 
 var listaFrases = [];
-console.log('Escriba "cancelar" si desea finalizar el programa\n')
+console.log('Escriba "cancelar" si desea finalizar el programa\n');
 
 do {
     console.log('Escriba algo por favor');
